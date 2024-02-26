@@ -214,11 +214,12 @@ span {
 }
 
 /* background color banner title tag  */
-.content{
+.content {
     margin-top: 120px;
     border-radius: 16px;
-    background-color:rgba(255, 0, 0, 0.05);
+    background-color: rgba(255, 0, 0, 0.05);
 }
+
 .img-group {
     margin-left: 585px;
     margin-top: 80px;
@@ -243,4 +244,35 @@ span {
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
+}
+
+.from-title {
+    text-align: center;
+}
+
+.gmill {
+    margin-top: 48px;
+    margin-bottom: 80px;
+    border-radius: 50px 0px 0px 50px;
+    color: rgba(7, 2, 17, 0.30);
+    padding: 20px 30px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    
+
+}
+
+.sub {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: 0;
+    padding: 20px 30px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
