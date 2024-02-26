@@ -9,13 +9,15 @@
     max-width: 1320px;
     margin: 0 auto;
 }
-.happy{
+
+.happy {
     padding: 177px;
     border-radius: 16px;
     margin-top: 50px;
-    background-image:url('../images/Banner\ Image.png');
+    background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
 }
+
 .year {
     color: #FFF;
     text-align: center;
@@ -34,4 +36,44 @@
     font-style: normal;
     font-weight: 900;
     line-height: 95px;
+}
+
+/* image banner title  */
+.photo{
+    text-align: center;
+}
+.off {
+    color: #F00;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.better {
+    color: #F00;
+    margin-top: 38px;
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.categories {
+    color: #070211;
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.new-images {
+    margin-top: 50px;
+    width: 802.9px;
+    height: 500px;
 }
